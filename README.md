@@ -14,7 +14,8 @@ or just starting the application once and closing it in task manager
 
 
 # Download instructions
-Once the project folder has been cloned, you may either run it yourself in Visual Studio or simply go to Debug -> SwapTesterVS.exe and run application.
+Once the project folder has been cloned, you may either run it yourself in Visual Studio or simply open .exe
+to test, select a text and hit F10
 
 
 
