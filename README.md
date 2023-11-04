@@ -18,7 +18,12 @@ Once the project folder has been cloned, you may either run it yourself in Visua
 to test, select a text and hit F10
 
 
+# Versions 
+Version one just uses spaces as delimiter, meaning the following string:
+" Follow, the leader " >> "leader the Follow,"
 
+Version 2 includes the "," delimiter, meaning for the same string:
+" Follow, the leader " >> " leader, the Follow"
 
 
 
