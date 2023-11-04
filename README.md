@@ -17,6 +17,12 @@ to test, select a text and hit F10
 
 <br />
 
+# Video example 
+
+https://youtu.be/GQaCv8Di9gQ
+
+<br />
+
 # Versions 
 Version one just uses spaces as delimiter, meaning the following string:
 " Follow, the leader " >> "leader the Follow,"
