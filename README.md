@@ -9,12 +9,13 @@ in windows.
 Other ways of running are: Compiling and debugging the source code yourself in Visual Studio
 or just starting the application once and closing it in task manager
 
-
+<br />
 
 # Download instructions
 Once the project folder has been cloned, you may either run it yourself in Visual Studio or simply open .exe
 to test, select a text and hit F10
 
+<br />
 
 # Versions 
 Version one just uses spaces as delimiter, meaning the following string:
@@ -22,16 +23,14 @@ Version one just uses spaces as delimiter, meaning the following string:
 
 This is a stable release...
 
-
-
-
-
+<br />
+<br />
 
 
 Version 2 includes the "," delimiter, meaning for the same string:
 " Follow, the leader " >> " leader, the Follow"
 
 This version will be the prototyping space for testing new delimiters and key-sequences.
-
+<br />
 # Changes
 
