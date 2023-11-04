@@ -1,4 +1,4 @@
-# SwapCommand
+# SwapCommand, Windows Hook application to create a new hotkey for swapping two words
 
 # WARNING! READ THIS FIRST
 This script reads all of your keyboard strokes and uses your clipboard,
@@ -9,8 +9,6 @@ in windows.
 Other ways of running are: Compiling and debugging the source code yourself in Visual Studio
 or just starting the application once and closing it in task manager
 
-
-# Windows Hook application to create a new hotkey for swapping two words
 
 
 # Download instructions
