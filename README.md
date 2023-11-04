@@ -20,8 +20,18 @@ to test, select a text and hit F10
 Version one just uses spaces as delimiter, meaning the following string:
 " Follow, the leader " >> "leader the Follow,"
 
+This is a stable release...
+
+
+
+
+
+
+
 Version 2 includes the "," delimiter, meaning for the same string:
 " Follow, the leader " >> " leader, the Follow"
 
+This version will be the prototyping space for testing new delimiters and key-sequences.
 
+# Changes
 
