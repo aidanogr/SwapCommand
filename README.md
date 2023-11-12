@@ -17,6 +17,11 @@ to test, select a text and hit F10
 
 <br />
 
+If you want to run this program in the background and not mess with it, put the .exe in the following
+directory: C:\Users\[YOUR USERNAME]\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+
+<br />
+
 # Video example 
 
 https://youtu.be/GQaCv8Di9gQ
