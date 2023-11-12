@@ -24,14 +24,7 @@ https://youtu.be/GQaCv8Di9gQ
 <br />
 
 # Versions 
-Version one just uses spaces as delimiter, meaning the following string:
-" Follow, the leader " >> "leader the Follow,"
-
-This is a stable release...
-
-<br />
-<br />
-
+ONLY VERSION IS NOW 'Swap.exe', but the following still applies
 
 Version 2 includes the "," delimiter, meaning for the same string:
 " Follow, the leader " >> " leader, the Follow"
