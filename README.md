@@ -2,7 +2,7 @@
 
 # WARNING! READ THIS FIRST
 This script reads all of your keyboard strokes and uses your clipboard,
-theres a good chancce it will be blocked by your firewall.
+theres a good chance it will be blocked by your firewall.
 This program also has no GUI, so be sure to only open one instance at a time. 
 One way to prevent problems here would be to just make it a startup application 
 in windows. 
